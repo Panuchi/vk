@@ -194,6 +194,7 @@ namespace VkNet.Categories
 				{ "sticker_id", @params.StickerId },
 				{ "peer_id", @params.PeerId },
 				{ "payload", @params.Payload },
+				{ "reply_to", @params.ReplyTo },
 				{ "group_id", @params.GroupId },
 				{ "dont_parse_links", @params.DontParseLinks },
 				{ "disable_mentions", @params.DisableMentions },
